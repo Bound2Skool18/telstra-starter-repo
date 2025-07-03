@@ -4,7 +4,14 @@ public class SimCardActivationRequest {
     private String iccid;
     private String customerEmail;
 
-    // Getters and Setters
+    public SimCardActivationRequest() {
+    }
+
+    public SimCardActivationRequest(String iccid, String customerEmail) {
+        this.iccid = iccid;
+        this.customerEmail = customerEmail;
+    }
+
     public String getIccid() {
         return iccid;
     }
@@ -21,4 +28,3 @@ public class SimCardActivationRequest {
         this.customerEmail = customerEmail;
     }
 }
-

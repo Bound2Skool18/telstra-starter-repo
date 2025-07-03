@@ -11,3 +11,7 @@ public class SimCardActivator {
     }
 
 }
+
+//src/main/java/au/com/telstra/simcardactivator/SimCardActivator/SimCardActivator.java
+//src/main/java/au/com/telstra/simcardactivator/SimCardActivator.java
+///Users/sharo2/Downloads/telstra-starter-repo/src/main/java/au/com/telstra/simcardactivator/SimCardActivator.java
