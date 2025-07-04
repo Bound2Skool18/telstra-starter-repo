@@ -1,0 +1,1 @@
+./mvnw clean verify sonar:sonar -Dsonar.projectKey=SimCardActivator -Dsonar.host.url=http://localhost:9000 -Dsonar.login=<sqp_91d5f2443612e85f521a83144bd5eef7eaf3bd26>
